@@ -1,0 +1,13 @@
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.exe
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.deps.json
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.json
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.runtimeconfig.dev.json
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\bin\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csprojAssemblyReference.cache
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfoInputs.cache
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.AssemblyInfo.cs
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.dll
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.pdb
+C:\Users\robert.gaines\Desktop\C-Sharp\Learning\Gradebook\src\GradeBook\obj\Debug\netcoreapp3.1\GradeBook.genruntimeconfig.cache
