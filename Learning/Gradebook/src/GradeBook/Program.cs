@@ -42,6 +42,10 @@ namespace GradeBook
 
             Console.WriteLine("[*] Welcome to the Gradebook Application [*]");
 
+            var book = new Book("Test");
+
+            book.AddGrade(89.1);
+
             var values = new double[100];
 
             var rand_value = new Random();
