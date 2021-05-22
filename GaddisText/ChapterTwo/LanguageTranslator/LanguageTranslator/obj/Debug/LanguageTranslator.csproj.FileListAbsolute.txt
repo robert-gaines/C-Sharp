@@ -1,0 +1,10 @@
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe.config
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.exe
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\bin\Debug\LanguageTranslator.pdb
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Form1.resources
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.Properties.Resources.resources
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.exe
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\LanguageTranslator\LanguageTranslator\obj\Debug\LanguageTranslator.pdb

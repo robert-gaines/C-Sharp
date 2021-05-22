@@ -1,0 +1,10 @@
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\bin\Debug\DateStringApplication.exe.config
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\bin\Debug\DateStringApplication.exe
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\bin\Debug\DateStringApplication.pdb
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\obj\Debug\DateStringApplication.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\obj\Debug\DateStringApplication.DateStringApplication.resources
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\obj\Debug\DateStringApplication.Properties.Resources.resources
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\obj\Debug\DateStringApplication.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\obj\Debug\DateStringApplication.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\obj\Debug\DateStringApplication.exe
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterThree\DateStringApplication\obj\Debug\DateStringApplication.pdb

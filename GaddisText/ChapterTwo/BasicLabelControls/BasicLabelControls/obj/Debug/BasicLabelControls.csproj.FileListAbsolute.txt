@@ -1,0 +1,10 @@
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\bin\Debug\BasicLabelControls.exe.config
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\bin\Debug\BasicLabelControls.exe
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\bin\Debug\BasicLabelControls.pdb
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\obj\Debug\BasicLabelControls.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\obj\Debug\BasicLabelControls.Form1.resources
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\obj\Debug\BasicLabelControls.Properties.Resources.resources
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\obj\Debug\BasicLabelControls.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\obj\Debug\BasicLabelControls.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\obj\Debug\BasicLabelControls.exe
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\BasicLabelControls\BasicLabelControls\obj\Debug\BasicLabelControls.pdb

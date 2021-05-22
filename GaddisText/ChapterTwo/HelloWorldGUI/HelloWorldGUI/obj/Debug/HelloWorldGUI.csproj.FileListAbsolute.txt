@@ -1,0 +1,10 @@
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe.config
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.pdb
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.HelloWorldGUI.resources
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.Properties.Resources.resources
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.exe
+C:\Users\rober\Desktop\C-Sharp\GaddisText\ChapterTwo\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.pdb
