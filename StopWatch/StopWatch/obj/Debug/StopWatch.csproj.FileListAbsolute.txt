@@ -1,0 +1,10 @@
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\obj\Debug\StopWatch.csprojAssemblyReference.cache
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\obj\Debug\StopWatch.StopWatch.resources
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.cache
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\Users\rober\Desktop\C-Sharp\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
